@@ -24,7 +24,7 @@ export default function App() {
   }, []);
 
   function goToPrevPage() {
-    setPage((prev) => prev + 1);
+    setPage((prev) => prev - 1);
   }
 
   function goToNextPage() {
