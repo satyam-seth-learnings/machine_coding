@@ -1,0 +1,37 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.pagination {
+  margin: 1rem;
+  display: flex;
+  gap: 0.25rem;
+  flex-wrap: warp;
+  align-items: center;
+  justify-content: center;
+}
+
+button {
+  cursor: pointer;
+}
+
+.products {
+  display: flex;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+}
+
+.product {
+  max-width: 250px;
+  padding: 0.25rem;
+  border: 1px solid black;
+}
+
+.product img {
+  width: 12rem;
+  height: 12rem;
+  object-fit: contain;
+}
