@@ -1,0 +1,42 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.App {
+  font-family: sans-serif;
+}
+
+h1 {
+  margin-bottom: 1rem;
+}
+
+.node,
+.tree {
+  display: flex;
+  gap: 0.5rem;
+  flex-direction: column;
+}
+
+img {
+  cursor: pointer;
+  width: 0.85rem;
+  height: 0.85rem;
+}
+
+.item {
+  display: flex;
+  gap: 0.25rem;
+  align-items: center;
+}
+
+button {
+  cursor: pointer;
+  width: 1.125rem;
+  height: 1.125rem;
+}
+
+.child {
+  margin-left: 2rem;
+}
