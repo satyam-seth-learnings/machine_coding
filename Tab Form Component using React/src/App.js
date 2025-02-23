@@ -46,7 +46,7 @@ export default function App() {
       validate: () => {
         const err = {};
 
-        if (!data.intrests.length !== 0) {
+        if (data.intrests.length === 0) {
           err.intrests = "Select at least one intrest";
         }
 
