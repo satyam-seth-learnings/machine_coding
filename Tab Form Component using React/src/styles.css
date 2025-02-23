@@ -1,0 +1,14 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.tab-body {
+  border: 1px solid black;
+}
+
+span {
+  display: block;
+  font-size: small;
+  color: red;
+}
