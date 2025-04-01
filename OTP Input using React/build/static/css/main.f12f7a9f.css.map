@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.f12f7a9f.css","mappings":"AAAA,KACE,sBAEF,CAEA,gBAHE,iBAQF,CALA,WAGE,cAAe,CADf,WAAY,CADZ,UAIF","sources":["styles.css"],"sourcesContent":[".App {\n  font-family: sans-serif;\n  text-align: center;\n}\n\n.otp-input {\n  width: 50px;\n  height: 50px;\n  font-size: 40px;\n  text-align: center;\n}"],"names":[],"sourceRoot":""}
